@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Green House</string>
+
+
+    <string name="remote_agriculture_automation">Remote Agriculture Automation</string>
+    <string name="fuel_quantity_monitoring_and_theft_avoidance">Fuel Quantity Monitoring and Theft Avoidance</string>
+    <string name="smart_home">Smart Home</string>
+    <string name="prototype_design_for_smart_home">Prototype Design for Smart Home</string>
+    <string name="remote_regional_drinking_water_quality_monitoring_and_alerting_system">Remote Regional Drinking water quality Monitoring and Alerting System</string>
+    <string name="power_consumption_monitoring_and_control_unit">Power Consumption Monitoring and Control Unit</string>
+    <string name="fire_safe_home_kitchen_design">Fire-Safe Home Kitchen Design</string>
+    <string name="smart_garbage_collection_system_automation_and_remote_bins_capacity_monitoring">Smart Garbage Collection System Automation and Remote Bins Capacity Monitoring</string>
+    <string name="techpacs_com">techpacs.com</string>
+    <string name="critical_temperature">Critical Temperature</string>
+    <string name="boiler">Boiler Status</string>
+    <string name="on">On</string>
+    <string name="off">off</string>
+    <string name="current_temperature">Current Temperature</string>
+    <string name="_40_c">40 °C</string>
+    <string name="_60_c">60 °C</string>
+    <string name="_20_c">20 °C</string>
+    <string name="device">Device</string>
+    <string name="machine">Machine</string>
+    <string name="lower_critical_temperature">Lower Critical Temperature</string>
+    <string name="upper_critical_temperature">Upper Critical Temperature</string>
+    <string name="send">Send</string>
+    <string name="light">Light</string>
+    <string name="threshold_temperature">Threshold Temperature</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="moisture">Moisture</string>
+    <string name="_40">40 %</string>
+    <string name="water_pump">Water Pump</string>
+    <string name="threshold_humidity">Threshold Humidity</string>
+    <string name="threshold_moisture">Threshold Moisture</string>
+    <string name="fan">Fan</string>
+    <string name="iot_lab">IOT LAB</string>
+    <string name="mode">Mode</string>
+    <string name="manual">Manual</string>
+    <string name="automatic">Automatic</string>
+    <string name="internet_of_things_lab">Internet of things lab</string>
+    <string name="in_collaboration_with">In collaboration with</string>
+    <string name="gas_valve">Gas Valve</string>
+    <string name="gas_value">Gas Value</string>
+    <string name="room_2">Room 2</string>
+    <string name="room_1">Room 1</string>
+    <string name="current_load">Current Load</string>
+    <string name="power">Power</string>
+    <string name="fuel_tank">Fuel Tank</string>
+    <string name="tank_opened">Tank Opened</string>
+    <string name="tank_closed">Tank Closed</string>
+    <string name="fuel">Fuel</string>
+    <string name="quantity_of_fuel_l">Quantity of Fuel : %.1f L</string>
+    <string name="last_update_time">Last update time : %s</string>
+    <string name="percent" formatted="false">%d %%</string>
+    <string name="maximum_capacity_of_fuel_tank" formatted="false">Maximum Capacity of Fuel Tank : %s L</string>
+    <string name="tds">TDS</string>
+    <string name="_100_ppm">100 ppm</string>
+    <string name="threshold_tds">Threshold TDS</string>
+    <string name="dustbin">Dustbin</string>
+    <string name="currently_filled">Currently filled</string>
+    <string name="threshold_current">Threshold Current</string>
+    <string name="gas">Gas</string>
+</resources>
